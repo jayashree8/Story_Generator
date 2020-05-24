@@ -7,11 +7,11 @@
 
 ![](assests/img2.png)
 
-#### The model was deployed using Amazon web services E2C Instance. The files regarding the deployment can be found in the folder [here]()
+#### The model was deployed using Amazon web services E2C Instance. The files regarding the deployment can be found in the folder [here](https://github.com/jayashree8/Story_Generator/tree/master/aws_ec2_app)
 
 #### See the working of the app below:
 <figure class="video_container">
   <video controls="true" allowfullscreen="true">
-    <source src="assests/story_gen.webm" type="video/webm">
+    <source src="../assests/story_gen.webm" type="video/webm">
   </video>
 </figure>
