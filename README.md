@@ -7,7 +7,7 @@
 
 ![](assests/img2.png)
 
-#### The model was deployed using Amazon web services E2C Instance. The files regarding the deployment can be found in the folder [here](https://github.com/jayashree8/Story_Generator/tree/master/aws_ec2_app)
+#### The model was deployed using Amazon web services EC2 Instance. The files regarding the deployment can be found in the folder [here](https://github.com/jayashree8/Story_Generator/tree/master/aws_ec2_app)
 
 #### See the working of the app below:
 ![](assests/story_gen.gif)
